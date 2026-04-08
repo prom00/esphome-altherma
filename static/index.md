@@ -26,7 +26,7 @@ Flash the firmware directly from your browser — no tools required.
 2. Click **Configure** to add it
 3. All sensors will be available as Home Assistant entities
 
-For OTA updates, reconnect the board and click **Connect** above, then select **Update**.
+Over-the-Air (OTA) Updates are managed directly within the Home Assistant UI.
 
 <script data-goatcounter="https://jjohnsen.goatcounter.com/count"
         async src="//gc.zgo.at/count.js"></script>
