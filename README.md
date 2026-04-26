@@ -14,6 +14,10 @@ M5Stack Basic running ESPHome Altherma
 ![Home Assistant dashboard with real-time Altherma data](img/home-assistant-dashboard-sensors.png)  
 ESPHome Altherma with real-time data in Home Assistant
 
+
+![My Heatpump dashboard in Home Assistant](img/home-assistant-emoncms-myheatpump-dashboard.png)  
+ESPHome Altherma + Emoncms and My Heatpump App
+
 ## Quick Start
 
 1. Open the [Web Installer](https://esphome-altherma.jjohnsen.no) in Chrome/Edge
