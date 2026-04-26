@@ -8,8 +8,11 @@ A native [ESPHome](https://esphome.io/) custom component for monitoring Daikin A
 
 🌐 [Web Installer](https://esphome-altherma.jjohnsen.no) · 💬 [HA Community](https://community.home-assistant.io/t/esphome-altherma-monitor-your-daikin-altherma-3-heat-pump-via-x10a/1000476) · 🗨️ [Discussions](https://github.com/jjohnsen/esphome-altherma/discussions) · 📖 [Emoncms Setup Guide](https://jjohnsen.no/2026/esphome-altherma-emoncms-setup-guide/)
 
-![Home Assistant dashboard showing Altherma sensor data](img/esphome0.png)
-![ESPHome device page with Altherma entities](img/esphome1.png)
+![M5stack Running ESPHome Altherma](img/esphome-altherma-m5stack.jpg)  
+M5Stack Basic running ESPHome Altherma
+
+![Home Assistant dashboard with real-time Altherma data](img/home-assistant-dashboard-sensors.png)  
+ESPHome Altherma with real-time data in Home Assistant
 
 ## Quick Start
 
